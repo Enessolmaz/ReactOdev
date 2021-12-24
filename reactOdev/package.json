@@ -1,0 +1,15 @@
+{
+  "name": "odev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "react.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Enes Solmaz",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
